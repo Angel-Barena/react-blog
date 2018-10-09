@@ -1,4 +1,4 @@
-#A basic blog built with React, Redux, Axios & some Bootstrap 
+A basic blog built with React, Redux, Axios & some Bootstrap 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
